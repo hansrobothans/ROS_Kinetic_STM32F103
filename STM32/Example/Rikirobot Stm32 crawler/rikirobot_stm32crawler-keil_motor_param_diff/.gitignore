@@ -1,0 +1,17 @@
+*.a
+*.o
+*.bin
+*.hex
+*.log
+*.elf
+*.swp
+*.srec
+*.list
+*.d
+*.out
+*.uvoptx
+*.uvguix.*
+Listings
+Objects
+DebugConfig
+tags
